@@ -1,0 +1,15 @@
+C:\course\TDDTraining\Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\course\TDDTraining\Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\course\TDDTraining\Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\course\TDDTraining\Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\course\TDDTraining\Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\course\TDDTraining\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\course\TDDTraining\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\course\TDDTraining\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\course\TDDTraining\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\course\TDDTraining\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\course\TDDTraining\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\course\TDDTraining\Calculator\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\course\TDDTraining\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\course\TDDTraining\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\course\TDDTraining\Calculator\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
